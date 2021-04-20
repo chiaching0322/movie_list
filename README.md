@@ -2,10 +2,10 @@
 A simple web application for movie fanatic
 
 ##Features
--listimg movies from movie api
--searching movies by title
--add movies to your favorite list
--manage your favorite list
+*listimg movies from movie api
+*searching movies by title
+*add movies to your favorite list
+*manage your favorite list
 
 ###Searching
 type the title of the movies in search bar
